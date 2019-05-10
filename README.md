@@ -14,3 +14,4 @@ This is the list of games for Cardiovascular:
 - [Great vessels](https://www.purposegames.com/game/great-vessels-quiz)
 - [Superior vessels of the heart](https://www.purposegames.com/game/superior-vessels-of-the-heart)
 - [The heart (anterior view)](https://www.purposegames.com/game/the-heart-anterior-view)
+- [Heart (posterior-inferior view)](https://www.purposegames.com/game/heart-posterior-inferior-view)
