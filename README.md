@@ -19,3 +19,4 @@ This is the list of games for Cardiovascular:
 - [Looking into the right ventricle](https://www.purposegames.com/game/looking-into-the-right-ventricle)
 - [Looking into the left atrium and ventricle](https://www.purposegames.com/game/looking-into-the-left-atrium-and-ventricle)
 - [Valves of the heart](https://www.purposegames.com/game/D31tStFWLwW)
+- [Tricuspid and mitral valve structure](https://www.purposegames.com/game/tricuspid-and-mitral-valve-structure)
