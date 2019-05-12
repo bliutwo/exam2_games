@@ -29,3 +29,5 @@ This is the list of games for Cardiovascular:
 - [Coronary arteries and cardiac veins](https://www.purposegames.com/game/coronary-arteries-and-cardiac-veins-quiz)
 - [Coronary sinus (posterior-inferior view)](https://www.purposegames.com/game/coronary-sinus-posterior-inferior-view)
 - [Coronary Artery Disease](https://www.purposegames.com/game/coronary-artery-disease)
+- [Coronary Artery Disease Treatment](https://www.purposegames.com/game/coronary-artery-disease-treatment)
+- [Cardiac conduction](https://www.purposegames.com/game/AsjqASkWdeL)
