@@ -23,3 +23,6 @@ This is the list of games for Cardiovascular:
 - [Pulmonary and aortic valve structure](https://www.purposegames.com/game/pulmonary-and-aortic-valve-structure)
 - [Valves during ventricular contraction](https://www.purposegames.com/game/valves-during-ventricular-contraction)
 - [Valves during ventricular relaxation](https://www.purposegames.com/game/valves-during-ventricular-relaxation)
+- [Aortic stenosis](https://www.purposegames.com/game/aortic-stenosis)
+- [Aortic valve and coronary ostia](https://www.purposegames.com/game/aortic-valve-and-coronary-ostia)
+- [Coronary arteries (anterior view)](https://www.purposegames.com/game/ZGlCnQEXuEI)
