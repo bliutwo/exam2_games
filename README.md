@@ -36,3 +36,4 @@ This is the list of games for Cardiovascular:
 # Respiratory
 
 - [Upper Respiratory Bone Structure](https://www.purposegames.com/game/upper-respiratory-bone-structure)
+- [Upper respiratory bone structure (coronal view)](https://www.purposegames.com/game/upper-respiratory-bone-structure-coronal-view)
