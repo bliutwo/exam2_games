@@ -42,3 +42,16 @@ This is the list of games for Cardiovascular:
 - [Nasal cavity (sagittal, slight lateral of mid)](https://www.purposegames.com/game/nasal-cavity-sagittal-slight-lateral-of-mid)
 - [The nasal conchae](https://www.purposegames.com/game/the-nasal-conchae)
    - [The nasal conchae (more exhaustive)](https://www.purposegames.com/game/the-nasal-conchae-more-exhaustive)
+- [Upper respiratory differentiating air and food](https://www.purposegames.com/game/upper-respiratory-differentiating-air-and-food)
+- [The epiglottis](https://www.purposegames.com/game/the-epiglottis)
+- [Larynx (Sagittal view)](https://www.purposegames.com/game/larynx-sagittal-view-game)
+- [Larynx (View from posterior)](https://www.purposegames.com/game/larynx-view-from-posterior)
+- [Larynx (View from superior)](https://www.purposegames.com/game/larynx-view-from-superior)
+- [Upper and lower respiratory tract](https://www.purposegames.com/game/upper-and-lower-respiratory-tract)
+- [More about airways](https://www.purposegames.com/game/more-about-airways)
+
+## Accounts used
+- bliutwo
+- splicedspam
+- bliubirb2
+- bliubirb3 (but not yet)
