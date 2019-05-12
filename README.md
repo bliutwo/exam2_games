@@ -27,3 +27,5 @@ This is the list of games for Cardiovascular:
 - [Aortic valve and coronary ostia](https://www.purposegames.com/game/aortic-valve-and-coronary-ostia)
 - [Coronary arteries (anterior view)](https://www.purposegames.com/game/ZGlCnQEXuEI)
 - [Coronary arteries and cardiac veins](https://www.purposegames.com/game/coronary-arteries-and-cardiac-veins-quiz)
+- [Coronary sinus (posterior-inferior view)](https://www.purposegames.com/game/coronary-sinus-posterior-inferior-view)
+- [Coronary Artery Disease](https://www.purposegames.com/game/coronary-artery-disease)
