@@ -21,3 +21,5 @@ This is the list of games for Cardiovascular:
 - [Valves of the heart](https://www.purposegames.com/game/D31tStFWLwW)
 - [Tricuspid and mitral valve structure](https://www.purposegames.com/game/tricuspid-and-mitral-valve-structure)
 - [Pulmonary and aortic valve structure](https://www.purposegames.com/game/pulmonary-and-aortic-valve-structure)
+- [Valves during ventricular contraction](https://www.purposegames.com/game/valves-during-ventricular-contraction)
+- [Valves during ventricular relaxation](https://www.purposegames.com/game/valves-during-ventricular-relaxation)
