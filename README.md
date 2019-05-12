@@ -49,6 +49,10 @@ This is the list of games for Cardiovascular:
 - [Larynx (View from superior)](https://www.purposegames.com/game/larynx-view-from-superior)
 - [Upper and lower respiratory tract](https://www.purposegames.com/game/upper-and-lower-respiratory-tract)
 - [More about airways](https://www.purposegames.com/game/more-about-airways)
+- [Tubes closer to lungs](https://www.purposegames.com/game/tubes-closer-to-lungs)
+- [Lungs schematic](https://www.purposegames.com/game/lungs-schematic)
+- [Lungs, fissures](https://www.purposegames.com/game/lungs-fissures)
+- [Right lung (medial and lateral views)](https://www.purposegames.com/game/right-lung-medial-and-lateral-views)
 
 ## Accounts used
 - bliutwo
