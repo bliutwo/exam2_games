@@ -37,3 +37,5 @@ This is the list of games for Cardiovascular:
 
 - [Upper Respiratory Bone Structure](https://www.purposegames.com/game/upper-respiratory-bone-structure)
 - [Upper respiratory bone structure (coronal view)](https://www.purposegames.com/game/upper-respiratory-bone-structure-coronal-view)
+- [Looking up the patient's right nostril](https://www.purposegames.com/game/looking-up-the-patients-right-nostril)
+- [Nasal cavity (sagittal view)](https://www.purposegames.com/game/nasal-cavity-sagittal-view)
