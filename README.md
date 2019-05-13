@@ -81,7 +81,8 @@ This is the list of games for Cardiovascular:
   - [Coronary sinus (posterior-inferior view)](https://www.purposegames.com/game/coronary-sinus-posterior-inferior-view)
 
 - [Cardiac veins and arteries pairings](https://www.purposegames.com/game/cardiac-veins-and-arteries-pairings)
-- [Coronary arteries and veins](https://www.purposegames.com/game/coronary-arteries-and-veins-quiz)
+- [Coronary arteries and veins](https://www.purposegames.com/game/coronary-arteries-and-veins-quiz) (haven't studied this much yet, NEED to)
+- [Anterior vs. Posterior views of heart](https://www.purposegames.com/game/anterior-vs-posterior-views-of-heart)
 
 ## Respiratory
 ## GI & Liver
