@@ -85,6 +85,10 @@ This is the list of games for Cardiovascular:
 - [Anterior vs. Posterior views of heart](https://www.purposegames.com/game/anterior-vs-posterior-views-of-heart)
 
 ## Respiratory
+
+- [TURBINATES](https://www.purposegames.com/game/turbinates)
+- [RALS](https://www.purposegames.com/game/rals)
+
 ## GI & Liver
 ## Respiratory
 
@@ -92,4 +96,4 @@ This is the list of games for Cardiovascular:
 - bliutwo
 - splicedspam
 - bliubirb2
-- bliubirb3 (but not yet)
+- bliubirb3 (currently using as of 5/12/19 at 23:36:21)
