@@ -84,6 +84,9 @@ This is the list of games for Cardiovascular:
 - [Peritoneum 2](https://www.purposegames.com/game/peritoneum-2)
 - [Greater omentum](https://www.purposegames.com/game/greater-omentum) (splicedspam)
 - [Gastrointestinal System](https://www.purposegames.com/game/1v7CzygIafk) (bliubirb)
+- [Functions of the Digestive System](https://www.purposegames.com/game/functions-of-the-digestive-system)
+- [Esophagus](https://www.purposegames.com/game/ER1WJBjaEpz)
+- [Stomach](https://www.purposegames.com/game/UtaVyHGvFUe)
 
 ## GastroIntestinal 2
 
@@ -94,9 +97,9 @@ This is the list of games for Cardiovascular:
   - [Male Reproductive System Text Quiz](https://www.purposegames.com/game/male-reproductive-test-quiz)
 - [Testicle](https://www.purposegames.com/game/testicle)
 - [Testicle and ducts](https://www.purposegames.com/game/testicle-and-ducts)
-- [Testicle and ducts (anterior view)](https://www.purposegames.com/game/testicle-and-ducts-anterior-view)
-- [Glands](https://www.purposegames.com/game/glands-male)
-- [Male pelvis, sagittal section](https://www.purposegames.com/game/male-pelvis-sagittal-section)
+- [Testicle and ducts (anterior view)](https://www.purposegames.com/game/testicle-and-ducts-anterior-view) 404
+- [Glands](https://www.purposegames.com/game/glands-male) 404
+- [Male pelvis, sagittal section](https://www.purposegames.com/game/male-pelvis-sagittal-section) 404
 - [Posterior view of the Urinary Bladder](https://www.purposegames.com/game/posterior-view-of-the-urinary-bladder)
 
 Skipped a few, the previous slide is "Female Reproductive System" with the real photo and cartoon, the next slide is "Ovary" with a cartoon of the ovary context(s):
@@ -126,6 +129,7 @@ Skipped a few, the previous slide is "Uterine Tube", the next slide is "Fertiliz
 
 - [TURBINATES](https://www.purposegames.com/game/turbinates)
 - [RALS](https://www.purposegames.com/game/rals)
+  - [Meaning of RALS](https://www.purposegames.com/game/meaning-of-rals-game)
 - [Upper Respiratory 2](https://www.purposegames.com/game/upper-respiratory-2-game)
 
 ## GI & Liver
