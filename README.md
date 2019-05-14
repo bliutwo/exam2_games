@@ -109,7 +109,9 @@ Skipped a few, the previous slide is "Uterine Tube", the next slide is "Fertiliz
   - [Coronary sinus (posterior-inferior view)](https://www.purposegames.com/game/coronary-sinus-posterior-inferior-view)
 
 - [Cardiac veins and arteries pairings](https://www.purposegames.com/game/cardiac-veins-and-arteries-pairings)
-- [Coronary arteries and veins](https://www.purposegames.com/game/coronary-arteries-and-veins-quiz) (haven't studied this much yet, NEED to)
+- [Coronary arteries and veins](https://www.purposegames.com/game/coronary-arteries-and-veins-quiz)
+  - [x] Point and click pretty solid
+  - [ ] Only did name all of them once
 - [Anterior vs. Posterior views of heart](https://www.purposegames.com/game/anterior-vs-posterior-views-of-heart)
 
 ## Respiratory
