@@ -2,7 +2,9 @@
 
 This repository contains links to study games related to the second exam. This will be constantly updated as I add more games to the list.
 
-# Games (CardioVascular)
+# Slides
+
+## CardioVascular
 
 This is the list of games for Cardiovascular:
 
@@ -33,7 +35,7 @@ This is the list of games for Cardiovascular:
 - [Cardiac conduction](https://www.purposegames.com/game/AsjqASkWdeL)
 - [Regions relevant to cardiac conduction](https://www.purposegames.com/game/regions-relevant-to-cardiac-conduction)
 
-# Respiratory
+## Respiratory
 
 - [Upper Respiratory Bone Structure](https://www.purposegames.com/game/upper-respiratory-bone-structure)
 - [Upper respiratory bone structure (coronal view)](https://www.purposegames.com/game/upper-respiratory-bone-structure-coronal-view)
@@ -65,12 +67,16 @@ This is the list of games for Cardiovascular:
 - [Pleura](https://www.purposegames.com/game/ebaLDickOfI)
 - [Tension pneumothorax](https://www.purposegames.com/game/tension-pneumothorax)
 
-# GastroIntestinal 1
+## GastroIntestinal 1
 
 - [Abdominal Wall Muscles](https://www.purposegames.com/game/QyMx2v6vi3h)
 - [Abdominal Wall Muscles - Superficial to Deep](https://www.purposegames.com/game/abdominal-wall-muscles-superficial-to-deep)
 - [Abdominal Wall Muscles - On the Body](https://www.purposegames.com/game/abdominal-wall-muscles-on-the-body)
 - [Surgical incisions](https://www.purposegames.com/game/surgical-incisions)
+
+## GastroIntestinal 2
+
+## Reproductive System
 
 # Whiteboards
 
