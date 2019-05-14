@@ -62,6 +62,9 @@ This is the list of games for Cardiovascular:
 - [Lung circulation](https://www.purposegames.com/game/lung-circulation)
   - **NOTE:** Starting here, didn't hardcore study like you used to; so up to here
 - [Bronchi branchings](https://www.purposegames.com/game/bronchi-branchings)
+  - [x] Dabbled once, 68%
+  - [ ] Haven't gotten 3 in a row, point and click
+  - [ ] Haven't started naming
 - [Ribs involved in respiratory system](https://www.purposegames.com/game/ribs-involved-in-respiratory-system)
 - [Diaphragm relevant to respiratory system](https://www.purposegames.com/game/diaphragm-relevant-to-respiratory-system)
 - [Inspiration, Expiration](https://www.purposegames.com/game/inspiration-expiration)
