@@ -80,7 +80,10 @@ This is the list of games for Cardiovascular:
 - [Surgical incisions](https://www.purposegames.com/game/surgical-incisions)
 - [Abdominal Cavity (and knowing cavities)](https://www.purposegames.com/game/abdominal-cavity-and-knowing-cavities)
   - [Abdominopelvic Cavity Questions](https://www.purposegames.com/game/abdominalpelvic-cavity-questions)
-
+- [Peritoneum](https://www.purposegames.com/game/ziKQZx5YVDz)
+- [Peritoneum 2](https://www.purposegames.com/game/peritoneum-2)
+- [Greater omentum](https://www.purposegames.com/game/greater-omentum) (splicedspam)
+- [Gastrointestinal System](https://www.purposegames.com/game/1v7CzygIafk) (bliubirb)
 
 ## GastroIntestinal 2
 
