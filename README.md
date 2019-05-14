@@ -102,7 +102,7 @@ Skipped a few, the previous slide is "Female Reproductive System" with the real 
 
 Skipped a few, the previous slide is "Uterine Tube", the next slide is "Fertilization and Implantation":
 
--[BIG Uterus Diagram Review](https://www.purposegames.com/game/big-uterus-diagram-review)
+- [BIG Uterus Diagram Review](https://www.purposegames.com/game/big-uterus-diagram-review)
 
 # Whiteboards
 
