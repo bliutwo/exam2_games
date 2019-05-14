@@ -89,6 +89,7 @@ This is the list of games for Cardiovascular:
 
 - [TURBINATES](https://www.purposegames.com/game/turbinates)
 - [RALS](https://www.purposegames.com/game/rals)
+- [Upper Respiratory 2](https://www.purposegames.com/game/upper-respiratory-2-game)
 
 ## GI & Liver
 ## Respiratory
