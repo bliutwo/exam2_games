@@ -82,6 +82,15 @@ This is the list of games for Cardiovascular:
 - [Male Reproductive System](https://www.purposegames.com/game/s1BGeMyp8Qe)
   - [Male Reproductive System Text Quiz](https://www.purposegames.com/game/male-reproductive-test-quiz)
 - [Testicle](https://www.purposegames.com/game/testicle)
+- [Testicle and ducts](https://www.purposegames.com/game/testicle-and-ducts)
+- [Testicle and ducts (anterior view)](https://www.purposegames.com/game/testicle-and-ducts-anterior-view)
+- [Glands](https://www.purposegames.com/game/glands-male)
+- [Male pelvis, sagittal section](https://www.purposegames.com/game/male-pelvis-sagittal-section)
+- [Posterior view of the Urinary Bladder](https://www.purposegames.com/game/posterior-view-of-the-urinary-bladder)
+
+Skipped a few, the previous slide is "Female Reproductive System" with the real photo and cartoon, the next slide is "Ovary" with a cartoon of the ovary context(s):
+
+- [BIG Female Reproductive System Review](https://www.purposegames.com/game/big-female-reproductive-system-review)
 
 # Whiteboards
 
