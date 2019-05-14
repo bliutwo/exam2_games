@@ -87,8 +87,14 @@ This is the list of games for Cardiovascular:
 - [Functions of the Digestive System](https://www.purposegames.com/game/functions-of-the-digestive-system)
 - [Esophagus](https://www.purposegames.com/game/ER1WJBjaEpz)
 - [Stomach](https://www.purposegames.com/game/UtaVyHGvFUe)
+- [Liver 1](https://www.purposegames.com/game/QbtAhqaA7Ea)
+- [Liver 2](https://www.purposegames.com/game/5rIMsE6QMmD)
+
 
 ## GastroIntestinal 2
+
+- [Difference between Jejunum and Ileum](https://www.purposegames.com/game/difference-between-jejunum-and-ileum)
+- [GI Schematic](https://www.purposegames.com/game/gi-schematic)
 
 ## Reproductive System
 
